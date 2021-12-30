@@ -1,17 +1,13 @@
 # Egor Krasyakov
-Student Frontend Developer
----
+RS Schools Student
 ## Contacts
----
 * **Location:** Minsk, Belarus
 * **Phone:** +375 44 7103800
 * **E-mail:** georgepro100@gmail.com
 * **Telegram:** @GeorgeTrueman
 * **Discord:** Egor_Krasyakov (@Cheshirelion)
 * **Github:** [(https://github.com/cheshirelion](https://github.com/cheshirelion)
----
 ## Skills
----
 * SEO
 * HTML5
 * CSS3
@@ -21,9 +17,7 @@ Student Frontend Developer
 * VS Code
 * Adobe Photoshop
 * Windows OS, Linux(Ubuntu) Basic
----
 ## Education
----
 * **Minsk Innovation University:** Psychology;
 * **Courses:**
     + [Computer Science Basics](https://elearn.epam.com/)
@@ -40,9 +34,7 @@ Student Frontend Developer
     + OOP Basic
     + RS Schools Course «JavaScript/Front-end. Stage 0» - in progress
     + CS50 lectures - in progress
----
 ## Languages
----
 * English - A2+
 * Belarussian - Native
 * Russian - Native
