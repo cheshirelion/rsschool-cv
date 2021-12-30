@@ -7,6 +7,8 @@ RS Schools Student
 * **Telegram:** @GeorgeTrueman
 * **Discord:** Egor_Krasyakov (@Cheshirelion)
 * **Github:** [(https://github.com/cheshirelion](https://github.com/cheshirelion)
+## About Me
+
 ## Skills
 * SEO
 * HTML5
