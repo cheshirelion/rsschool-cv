@@ -2,17 +2,16 @@
 RS Schools Student
 ## Contacts
 * **Location:** Minsk, Belarus
-* **Phone:** +375 44 7103800
 * **E-mail:** georgepro100@gmail.com
 * **Telegram:** @GeorgeTrueman
 * **Discord:** Egor_Krasyakov (@Cheshirelion)
 * **Github:** [(https://github.com/cheshirelion](https://github.com/cheshirelion)
 ## About Me
-
+Hi! I am Egor, I am 32 years old. Previously, I worked as an SEO specialist, and also ran advertising campaigns in Yandex.Direct. Recently I decided to change activities and start programming. I love to study and know how to be productively engaged in this, psychological and pedagogical education helps me and the fact that I am constantly experiencing information hunger. I will learn and become a developer because I believe that this path will make my life better, more meaningful and more interesting! I also love to study biology, psychology and other areas of scientific knowledge. I go hiking, traveling, doing fitness. I love electronics, gadgets, listen to a lot of different music, read (popular science, science fiction, science fiction literature, etc.)
 ## Skills
 * SEO
 * HTML5
-* CSS3
+* CSS3/FlexBox
 * JavaScript Basic
 * Command line
 * Version control: Git (remote service GitHub)
