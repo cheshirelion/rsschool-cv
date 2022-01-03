@@ -97,16 +97,17 @@
             <section class="section" id="code">
                 <h2 class="section-title">code</h2>
                    <pre class="pre">
-                        <code> 
-const reverseString = (str) => {
-    let result = '';
-    for (let i = 0; i < str.length; i += 1) {
-        result = `${str[i]}${result}`;
-    }
+<code>const reverse = (str) => {
+        let i = str.length - 1
+        let result = '';
+        while (i >= 0) {
+            result += str[i];
+            i -= 1;
+        }
 
-    return result;
-};
-                        </code>
+        return result;
+     }
+</code>
                     </pre>
             </section>
 
@@ -128,7 +129,7 @@ const reverseString = (str) => {
     <footer class="footer">
         <div class="container footer-container">
             <div>© 2022 <a href="https://github.com/cheshirelion" class="github nav-link">cheshirelion</a></div>
-            <a href="https://rs.school/js/"><img src="./assets/svg/rss.svg" alt="RSS" class="rss"></img></a>
+            <a href="https://rs.school/js/"><img src="./assets/svg/rss.svg" alt="RSS" class="rss"></a>
         </div>
     </footer>
 </body>
