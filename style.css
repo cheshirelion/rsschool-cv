@@ -2,6 +2,10 @@
 *::before,
 *::after {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    line-height: 40px;
 }
 
 :root {
@@ -22,8 +26,6 @@ body {
     flex-direction: column;
     justify-content: space-between;
     min-height: 100vh;
-    margin: 0;
-    scroll-behavior: smooth;
     text-rendering: optimizeSpeed;
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
