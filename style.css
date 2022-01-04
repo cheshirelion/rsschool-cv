@@ -1,18 +1,19 @@
-*,
-*::before,
-*::after {
+* {
     box-sizing: border-box;
-    margin: 0;
-    padding: 0;
     scroll-behavior: smooth;
-    line-height: 40px;
+}
+
+html {
+    padding: 0;
 }
 
 :root {
-    --text-color: #404040;
+    --text-color: #303030;
     --title-color:  #202020;
     --link-color: #ffffff;
-    --background-color: #BDB76B;
+    /* --background-color: #BDB76B; */
+    --background-color: #b5a642; 
+    /* --background-color: #979439; */
     --border-color: #d7d1c9;
 }
 
@@ -25,7 +26,10 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    min-width: 320px;
     min-height: 100vh;
+    margin: 0;
+    padding: 0;
     text-rendering: optimizeSpeed;
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
@@ -35,8 +39,11 @@ body {
 }
 
 .container {
-    max-width: 1440px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
     margin: 0 auto;
+    max-width: 1440px;
     min-height: 50px;
 }
 
@@ -57,7 +64,22 @@ a {
 }
 
 .header {
+    margin: 0;
     background-color: var(--background-color);
+}
+
+.header-container {
+    justify-content: center;
+}
+
+.nav {
+    display: block;
+}
+
+@media (max-width: 768px) {
+    .header {
+        display: none;
+    }
 }
 
 .nav-list {
@@ -95,12 +117,6 @@ a {
 	width: 100%;
 }
 
-.main-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-  
 .section {
     width: calc(50% - 20px);
     padding: 16px;
@@ -115,11 +131,11 @@ a {
 }
 
 .section-title {
-    font-size: 20px;
-    font-weight: 400;
+    font-size: 23px;
+    font-weight: 500;
     text-transform: uppercase;
-    letter-spacing: 5px;
-    color: var(--title-color);
+    letter-spacing: 7px;
+    color: var(--background-color);
   }
 
 .section-list {
@@ -132,6 +148,13 @@ a {
     width: 100%;
     padding: 50px 30px 35px;
     border-bottom: 15px solid var(--border-color);
+}
+
+@media (max-width: 768px) {
+    .section-profile {
+        flex-direction: column;
+        align-items: center;
+    }
 }
 
 .section-profile-avatar {
@@ -157,7 +180,7 @@ a {
     position: relative;
     padding: 0;
     margin-bottom: 20px;
-    color: #202020;
+    color: var(--color-text);
     font-size: 32px;
     font-weight: 500;
     letter-spacing: 10px;
