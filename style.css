@@ -238,11 +238,12 @@ code {
 .github-icon {
     margin-right: 10px;
     vertical-align: middle;
-    width: 52px;
-    height: 52px;
+    width: 45px;
+    height: 45px;
 }
 
 .rss {
+    vertical-align: middle;
     width: 121px;
     height: 45px;
     background-image: url("./assets/svg/rss.svg");
