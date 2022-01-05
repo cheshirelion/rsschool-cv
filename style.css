@@ -235,6 +235,13 @@ code {
     color: #fff;
 }
 
+.github-icon {
+    margin-right: 10px;
+    vertical-align: middle;
+    width: 52px;
+    height: 52px;
+}
+
 .rss {
     width: 121px;
     height: 45px;
