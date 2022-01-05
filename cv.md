@@ -7,7 +7,7 @@ RS Schools Student
 * **Discord:** Egor_Krasyakov (@Cheshirelion)
 * **Github:** [(https://github.com/cheshirelion](https://github.com/cheshirelion)
 ## About Me
-Hi! I am a RS SChool student. Previously, I used to work as a SEO specialist, and also ran advertising campaigns in Yandex.Direct. Recently I decided to change activities and start programming. I love to study and know how to be productively engaged in this, psychological and pedagogical education helps me. I am constantly experiencing information hunger. I will learn and become a developer because I believe that this path will make my life better, more meaningful and more interesting! I also love to study biology, psychology and other areas of scientific knowledge. I'm fond of hiking, traveling, doing workout in my body. I love electronics, gadgets, listening  different music, reading (popular science, science fiction, etc.)
+Hi! I am a RSSchool student. Previously, I used to work as a SEO specialist, and also ran advertising campaigns in Yandex.Direct. Recently I decided to change activities and start programming. I love to study and know how to be productively engaged in this, psychological and pedagogical education helps me. I am constantly experiencing information hunger. I will learn and become a developer because I believe that this path will make my life better, more meaningful and more interesting! I also love to study biology, psychology and other areas of scientific knowledge. I'm fond of hiking, traveling, doing workout in my body. I love electronics, gadgets, listening  different music, reading (popular science, science fiction, etc.)
 ## Skills
 * SEO
 * HTML5
