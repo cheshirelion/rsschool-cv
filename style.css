@@ -156,7 +156,6 @@ a {
     font-weight: 500;
     text-transform: uppercase;
     letter-spacing: 3px;
-    /* color: var(--background-color); */
   }
 
 .section-list {
@@ -180,13 +179,13 @@ a {
 }
 
 .section-profile-avatar {
-    width: 200px;
-    height: 200px;
+    width: 405px;
+    height: 270px;
     object-fit: cover;
-    border-radius: 50%;
+    border-radius: 4%;
     box-shadow: 0 1px 4px rgb(0 0 0 / 60%);
     filter: grayscale(0.2) brightness(1.05);
-    transition: .3s;
+    transition: 0.3s;
 }
 
 .section-profile-title {
