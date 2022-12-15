@@ -2,7 +2,7 @@
 RS Schools Student
 ## Contacts
 * **Location:** Minsk, Belarus
-* **Instagram:** cheshirelion
+* **Instagram:** @cheshirelion
 * **Telegram:** @GeorgeTrueman
 * **Discord:** Egor_Krasyakov (@Cheshirelion)
 * **Github:** [(https://github.com/cheshirelion](https://github.com/cheshirelion)
@@ -34,7 +34,7 @@ Hi! I am a RSSchool student. Previously, I used to work as a SEO specialist. Rec
     + [Introduction to Git](https://ru.hexlet.io/courses/intro_to_git) - in progress
     + [Command line basics](https://ru.hexlet.io/courses/cli-basics) - in progress
     + OOP Basic
-    + RS Schools Course «JavaScript/Front-end. Stage 0» - in progress
+    + RS Schools Course «JavaScript/Front-end. Stage 0»
     + CS50 lectures - in progress
 ## Languages
 * English - A2
