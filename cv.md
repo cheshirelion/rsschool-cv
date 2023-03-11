@@ -1,0 +1,42 @@
+# Egor Krasyakov
+RS Schools Student
+## Contacts
+* **Location:** Minsk, Belarus
+* **Instagram:** @cheshirelion
+* **Telegram:** @GeorgeTrueman
+* **Discord:** Egor_Krasyakov (@Cheshirelion)
+* **Github:** [(https://github.com/cheshirelion](https://github.com/cheshirelion)
+## About Me
+Hi! I am a RSSchool student. Previously, I used to work as a SEO specialist. Recently I decided to change activities and start programming. I love to study and know how to be productively engaged in this, psychological and pedagogical education helps me. I am constantly experiencing information hunger. I will learn and become a developer because I believe that this path will make my life better, more meaningful and more interesting! I also love to study biology, psychology and other areas of scientific knowledge. I'm fond of hiking, traveling, fishing, doing workout in my body. I love electronics, gadgets, listening  different music, reading (popular science, science fiction, etc.)
+## Skills
+* SEO
+* HTML5
+* CSS3/FlexBox
+* JavaScript Basic
+* Command line
+* Version control: Git (remote service GitHub)
+* VS Code
+* Adobe Photoshop
+* Figma
+* Windows OS, Linux(Ubuntu) Basic
+## Education
+* **Minsk Innovation University:** Psychology;
+* **Courses:**
+    + [Computer Science Basics](https://elearn.epam.com/)
+    + [HTML Basic](https://ru.code-basics.com/languages/html)
+    + [CSS Basic](https://ru.code-basics.com/languages/css)
+    + [Fundamentals of modern layout](https://ru.hexlet.io/courses/layout-designer-basics)
+    + [Basics of HTML, CSS and Web Design](https://ru.hexlet.io/courses/html)
+    + [JavaScript Basic](https://ru.code-basics.com/languages/javascript)
+    + [The life of a programmer](https://ru.hexlet.io/courses/prog-life)
+    + [Introduction to web development](https://ru.hexlet.io/courses/intro_to_web_development)
+    + [Introduction to programming](https://ru.hexlet.io/courses/introduction_to_programming)
+    + [Introduction to Git](https://ru.hexlet.io/courses/intro_to_git) - in progress
+    + [Command line basics](https://ru.hexlet.io/courses/cli-basics) - in progress
+    + OOP Basic
+    + RS Schools Course «JavaScript/Front-end. Stage 0»
+    + CS50 lectures - in progress
+## Languages
+* English - A2
+* Belarussian - Native
+* Russian - Native
